@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Astro and TypeScript**
 
-- 👯 I'm looking to collaborate on **Open source Projects**
+- 👯 I'm looking to collaborate on **Front-end Projects**
 
 - 🤝 I'm looking for help with **JavaScript logic**
 
