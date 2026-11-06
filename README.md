@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **constant@yigitkilicaslan.com**
 
-- ⚡ Fun fact **I like games a lot**
+- ⚡ Fun fact **I'm obsessed with video games**
 
 - 👨‍💻 All of my projects are available at **[https://yigitkilicaslan.com](https://yigitkilicaslan.com)**
 
