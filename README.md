@@ -2,7 +2,7 @@
 
 ### A Front-End developer
 
-- 🔭 I'm currently working on **My portfolio made with astro**
+- 🔭 I'm currently working on **my portfolio made with astro**
 
 - 🌱 I'm currently learning **Astro and TypeScript**
 
