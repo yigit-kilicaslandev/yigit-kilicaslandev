@@ -25,7 +25,7 @@
 <a href="https://github.com/yigit-kilicaslandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yigit-kilicaslandev" height="30" width="40" /></a>
 <a href="https://twitter.com/ygtdev00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ygtdev00" height="30" width="40" /></a>
 </p>
-<a href="mailto: contant@yigitkilicaslan.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="contant@yigitkilicaslan.com" height="30" width="40" /></a>
+<a href="mailto: contant@yigitkilicaslan.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Dark.svg" alt="contant@yigitkilicaslan.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
